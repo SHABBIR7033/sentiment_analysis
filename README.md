@@ -4,6 +4,8 @@ A beginner-friendly NLP project that classifies movie reviews as **positive**
 or **negative** using a TF-IDF vectorizer and a Logistic Regression model,
 served through a Streamlit web app.
 
+# Live Demo
+Live Link: https://sentimentanalysis-vdrms4acrgrp4vvsiiqnml.streamlit.app/
 ## Project structure
 
 ```
